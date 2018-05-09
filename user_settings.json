@@ -1,0 +1,36 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 14,
+    "editor.tabCompletion": true,
+    "files.insertFinalNewline": true,
+    "files.autoSave": "onFocusChange",
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "Droid Sans Mono Slashed",
+    "ruby.lint": {
+    "cooksyle": true,
+    "ruby": true
+    },
+    "foodcritic.enable": true,
+    "workbench.colorTheme": "Monokai",
+    "editor.minimap.enabled": true,
+    "editor.dragAndDrop": true,
+    "editor.renderIndentGuides": true,
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "git.confirmSync": false,
+    "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressResultsExplorerNotice": false,
+      "suppressShowKeyBindingsNotice": true,
+      "suppressUpdateNotice": false,
+      "suppressWelcomeNotice": true
+    },
+    "gitlens.keymap": "chorded"
+  }
